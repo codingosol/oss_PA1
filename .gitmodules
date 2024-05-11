@@ -1,0 +1,3 @@
+[submodule "subdir"]
+	path = subdir
+	url = https://github.com/codingosol/oss_PA1_submodule
